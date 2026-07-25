@@ -1,0 +1,4 @@
+# Entregables de Grupo Galarza: documentos de UN cliente.
+# No se indexan (nombre, proyecto, fotos y honorarios).
+User-agent: *
+Disallow: /
